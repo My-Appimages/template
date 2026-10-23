@@ -23,4 +23,4 @@ While other platforms, already exist i made this repository purely as a learning
 3. You might also have to configure the metadate in the config.sh file
 
 # How do i contribute?
-Contributions maintainers for this project are welcome! maintaining this just as a single person is a very difficult thing to do for multiple AppImages, so if you want to become a contributor then great! make sure you follow the contributing_rules.md before contributing to ensure my project appimages are safe!
+Contributions maintainers for this project are welcome! maintaining this just as a single person is a very difficult thing to do for multiple AppImages, so if you want to become a contributor then great! make sure you follow the [Contribution rules](https://github.com/My-Appimages/template/blob/main/Contribution%20rules.md) before contributing to ensure my project appimages are safe!
