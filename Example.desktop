@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Example
+Comment=Example comment
+Exec=example
+Path=usr/bin/
+Icon=Example
+Type=Application
+Categories=Game;Emulator;
+Terminal=false
