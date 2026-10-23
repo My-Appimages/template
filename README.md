@@ -1,4 +1,4 @@
-<img width="256" height="256" alt="SFRR" src="https://github.com/user-attachments/assets/33b93a20-6e5c-48f2-a78a-33b130cbf72d" />
+<img width="256" height="256" alt="Example@2x" src="https://github.com/user-attachments/assets/1445cc42-8f0b-4c86-aa47-6275616615c5" />
 
 An template for My Appimages project that builds appimages for projects that don't have it
 # How is the AppImage built
