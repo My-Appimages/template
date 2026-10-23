@@ -6,8 +6,7 @@ An template for My Appimages project that builds appimages for projects that don
 3. Then after succesfully building it will create a Github release and uploads the output AppImage.
 
 # What's the purpose of this repository?
-1. The recomp currently doesn't have official AppImage yet.
-2. To conveniently update it through [Gear Lever.](https://github.com/mijorus/gearlever)
+1. To conveniently update it through [Gear Lever.](https://github.com/mijorus/gearlever)
 3. To learn how AppImages are being built and distributed.
 
 # Why reinvent the wheel?
